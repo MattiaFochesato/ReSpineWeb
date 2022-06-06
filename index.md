@@ -1,4 +1,4 @@
-## Deva - ReSpine
+## ReSpine
 
 
 <img align="right" width="180" height="180" src="assets/AppIcon.png">
