@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Deva - ReSpine
 
-You can use the [editor on GitHub](https://github.com/MattiaFochesato/ReSpineWeb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img align="right" width="180" height="180" src="assets/AppIcon.png">
 
-### Markdown
+**ReSpine** is an app created by the team called **Deva**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is an app that helps sedentary people with postural problems who want to solve their problems and pains.
 
-```markdown
-Syntax highlighted code block
+<p align="center">
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 
-- Bulleted
-- List
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
 
-1. Numbered
-2. List
+<img src="https://img.shields.io/badge/swiftui-0348A5?style=for-the-badge&logo=swift&logoColor=white" />
 
-**Bold** and _Italic_ and `Code` text
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 
-[Link](url) and ![Image](src)
-```
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-### Jekyll Themes
+</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MattiaFochesato/ReSpineWeb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p align="center">
+<a href='https://testflight.apple.com/join/96hcm9oB'><img height='50' alt='Join the Beta on TestFlight' src='https://anotherlens.app/testflight-badge.png'/></a>
+</p>
+  
+  
 
-### Support or Contact
+## App Statement
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img align="right" width="300" height="424" src="assets/Poster.jpg">
+
+**Our** Application **helps** sedentary people with postural problems **who want to** solve their problems and pains **by** learning **and** adopting good habits trough a serie of mini-games.
+
+  
+## Creators
+
+* **Matilde** Cotroneo - *Project Manager*
+* **Mattia** Ferigutti - *Product Manager & Backend Developer*
+* **Mattia** Fochesato - *Tech Lead*
+* **Giovanni** Imparato - *UI Designer & Business*
+* **Marco** Pescosolido - *UI/UX Designer*
+* **Francesco** Viola - *Frontend Developer*
