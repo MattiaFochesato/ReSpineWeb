@@ -1,0 +1,12 @@
+---
+layout: none
+permalink: .well-known/apple-app-site-association
+---
+
+{
+    "appclips": {
+        "apps": [
+            "RX5W7Q737U.com.deva.Posturaptor.Clip
+        ]
+    }
+}
