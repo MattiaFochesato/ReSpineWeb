@@ -25,6 +25,7 @@ It is an app that helps sedentary people with postural problems who want to solv
 
 <p align="center">
 <a href='https://testflight.apple.com/join/96hcm9oB'><img height='50' alt='Join the Beta on TestFlight' src='https://anotherlens.app/testflight-badge.png'/></a>
+<a href='https://apple.co/3twV9Lp'><img height='50' alt='Download from the App Store' src='https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg'/></a>
 </p>
   
   
