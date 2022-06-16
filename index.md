@@ -1,6 +1,6 @@
 ## ReSpine
 
-<meta name="apple-itunes-app" content="app-id=1625109363, app-clip-bundle-id=com.deva.Posturaptor.Clip">
+<meta name="apple-itunes-app" content="app-id=1625109363, app-clip-bundle-id=com.deva.Posturaptor.Clip, app-clip-display=card">
 
 <img align="right" width="180" height="180" src="assets/AppIcon.png">
 
