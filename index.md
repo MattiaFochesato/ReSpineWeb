@@ -1,5 +1,6 @@
 ## ReSpine
 
+<meta name="apple-itunes-app" content="app-id=1625109363, app-clip-bundle-id=com.deva.Posturaptor.Clip">
 
 <img align="right" width="180" height="180" src="assets/AppIcon.png">
 
@@ -34,7 +35,7 @@ It is an app that helps sedentary people with postural problems who want to solv
 
 <img align="right" width="300" height="424" src="assets/Poster.jpg">
 
-**Our** Application **helps** sedentary people with postural problems **who want to** solve their problems and pains **by** learning **and** adopting good habits trough a serie of mini-games.
+**Our** Application **helps** sedentary people with postural problems **who want to** solve their problems and pains **by** learning **and** adopting good habits through a series of mini-games.
 
   
 ## Creators
