@@ -33,7 +33,7 @@ It is an app that helps sedentary people with postural problems who want to solv
 
 ## App Statement
 
-<img align="right" width="300" height="424" src="assets/Poster.jpg">
+<img align="right" width="300" height="424" src="assets/Poster.png">
 
 **Our** Application **helps** sedentary people with postural problems **who want to** solve their problems and pains **by** learning **and** adopting good habits through a series of mini-games.
 
